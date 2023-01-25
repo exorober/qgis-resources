@@ -5,13 +5,13 @@ Content shared through the [QGIS resource sharing plugin](https://qgis-contribut
 Avaliable resources:
 
 ## OpenMoji SVG Black
-### SVG emoji icons from [OpenMoji Project](https://openmoji.org/)
-These icons have been modified from the original repository to improve their usage in QGIS:
+### SVG black and hollow icons from [OpenMoji Project](https://openmoji.org/)
+These icons have been modified from the original repository in order to improve their usage in QGIS:
 * Marker color is editable
 * Default size adapted
 
 
 ## OpenMoji SVG Color
-### SVG emoji icons from [OpenMoji Project](https://openmoji.org/)
-These icons have been modified from the original repository to improve their usage in QGIS:
+### SVG color icons from [OpenMoji Project](https://openmoji.org/)
+These icons have been modified from the original repository in order to improve their usage in QGIS:
 * Default size adapted
