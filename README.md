@@ -1,4 +1,5 @@
 # QGIS Resources
+By Rober J
 
 Content shared through the [QGIS resource sharing plugin](https://qgis-contribution.github.io/QGIS-ResourceSharing/index.html)
 
