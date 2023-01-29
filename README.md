@@ -1,9 +1,11 @@
 # QGIS Resources
 By Rober J
 
+[![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
+
 Content shared through the [QGIS resource sharing plugin](https://qgis-contribution.github.io/QGIS-ResourceSharing/index.html)
 
-Avaliable resources:
+Avaliable collections:
 
 <br>
 
